@@ -1,1 +1,10 @@
 requests模块作用：模拟浏览器发请求
+大致流程：
+    1.指定url
+        url要以字符串的形式指定
+            example:url = 'xxx.com'
+    2.发送请求
+    3.获取响应数据
+        text返回的是字符串形式的响应数据
+    4.存储
+    encoding:编码形式
